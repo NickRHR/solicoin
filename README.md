@@ -1,3 +1,4 @@
+title: "solicoin - vaincre la precarite par la technologie"
 ## Welcome to GitHub Pages
 This will soon host the first page of the solicoin project !
 
