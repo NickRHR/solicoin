@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+This will soon host the first page of the solicoin project !
 
 You can use the [editor on GitHub](https://github.com/NickRHR/solicoin/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
